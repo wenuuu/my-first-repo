@@ -1,1 +1,1 @@
-test
+Hello GitHub! This is my first project.
